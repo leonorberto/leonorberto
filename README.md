@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Leonardo Norberto 👋
-- 🔭 Hoje trabalho como analista de produção
 - 🌱 Estudando Power Bi, SQLServer, Python ~Data Science em geral
+- 🐱‍🏍 thenextdatascientist
  
 
 <div align="center">
