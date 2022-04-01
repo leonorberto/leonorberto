@@ -1,5 +1,5 @@
 ### Olá!! Eu sou o Leonardo Norberto 👋
-- 🌱 Estudando Power Bi, SQLServer, Python ~Data Science em geral
+- 🌱 Estou estudando sobre Análise de Dados
 - 🐱‍🏍 thenextdatascientist
  
 
